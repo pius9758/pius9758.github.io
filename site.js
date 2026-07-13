@@ -194,7 +194,7 @@
       document.querySelector("[data-about-title]").textContent = showingEnglish ? "About Me" : "درباره من";
       document.querySelector("[data-about-intro]").textContent = showingEnglish
         ? "My background, scores, and the long route that made academic English part of my everyday life."
-        : "کمی دربارهٔ من، نمره‌هایم و مسیری که باعث شد انگلیسی آکادمیک بخش بزرگی از زندگی‌ام شود.";
+        : "کمی درباره من، نمره‌هایم و مسیری که باعث شد انگلیسی آکادمیک بخش بزرگی از زندگی‌ام شود.";
     });
   }
 
